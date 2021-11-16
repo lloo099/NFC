@@ -25,3 +25,4 @@ ST25R3916
       to ST-LINK connector (CN1).
     - Please ensure that the ST-LINK connector CN2 jumpers are fitted.
 
+![image](https://user-images.githubusercontent.com/29093207/141923126-916ba7b0-d110-49be-baa2-d8e185e630cd.png)
